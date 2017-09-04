@@ -22,7 +22,7 @@ public class Application {
         LOGGER.info("这是一个 info 消息");
         LOGGER.warn("这是一个 warn 消息");
         LOGGER.error("这是一个 error 消息");
-        return "Hello World!";
+        return "<H2>Hello World!</H2>";
     }
     public static void main(String[] args) throws Exception {
         SpringApplication.run(Application.class, args);
