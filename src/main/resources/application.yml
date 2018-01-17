@@ -1,8 +1,8 @@
-#ÈÕÖ¾¼¶±ğÉèÖÃ
+#æ—¥å¿—çº§åˆ«
 logging:
     level:
         root: info
 
-#tomcat ¶Ë¿ÚÅäÖÃ
+#ç«¯å£å·
 server:
     port: 8081
